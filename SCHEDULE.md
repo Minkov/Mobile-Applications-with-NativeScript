@@ -5,8 +5,8 @@
 | Topic title                    | Description                                                     | Starts at | Duration | Trainer |
 |:-------------------------------|:----------------------------------------------------------------|:----------|:---------|:--------|
 | Course Introduction            | Introduction to the course, trainers, examination, projects.    | 14:00     |          | Doncho  |
-| Setup NativeScript Environment | Setting up Android/iOS environment for NativeScript.            | 14:30     |          | Marto   |
-| Application architecture       | Page management and navigation.                                 | 16:30     |          | Marto   |
+| Setup NativeScript Environment | Setting up Android/iOS environment for NativeScript             | 14:30     |          | Marto   |
+| Application architecture       | Page management and navigation                                  | 16:30     |          | Marto   |
 
 ## Thursday 11 February 2016
 | Topic title                    | Description                                                     | Starts at | Duration | Trainer |
@@ -43,7 +43,7 @@
 | Topic title                    | Description                                                     | Starts at | Duration | Trainer |
 |:-------------------------------|:----------------------------------------------------------------|:----------|:---------|:--------|
 | **Workshop**                   |                                                                 | 13:00     |          | Cuki    |
-| Hardware access                | Accessing camera, location and other native.                    |           |          | Cuki    |
+| Hardware access                | Accessing camera, location and other native                     |           |          | Cuki    |
 | Native API access              | Accessing native APIs (functions, arrays, classes, etc... ).    | 18:00     |          | Plamen  |
 
 ## Thursday 18 February 2016
